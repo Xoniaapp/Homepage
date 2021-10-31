@@ -1,19 +1,19 @@
 import React from "react";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
+import { Navbar, Header, Grid, Footer } from "./components/index.js"
+
+
 function App() {
   return (
     <Router>
       <Switch>
-        <Route exact path="/">
-    <div>
-    <center>
-    <h1>
-    Something big is coming...
-    </h1>
-    </center>
-    </div>
-        </Route>
+    <Route exact path="/">
+    <Navbar />
+    <Header />
+    <Grid />
+    <Footer />
+    </Route>
       </Switch>
     </Router>
   );
