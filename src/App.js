@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 import { Navbar, Header, Grid, Footer } from "./components/index.js";
-import { Privacy } from "./pages/Privacy.js";
+import Privacy from "./pages/index.js";
 
 function App() {
   return (
