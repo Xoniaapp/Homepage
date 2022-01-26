@@ -15,7 +15,7 @@ function App() {
     <Footer />
     </Route>
 
-<Route exact="/privacy">
+<Route exact path="/privacy">
 <Privacy />
 </Route>
 
