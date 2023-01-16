@@ -7,8 +7,7 @@ export default function Banner() {
             Don't wait
           </h2>
           <p className="mt-3 max-w-3xl text-lg leading-6 text-gray-300">
-            Join today. No bullshit spyware. No trackers included. Powered by
-            hampter servers.
+            Join today. No spyware. No trackers included.
           </p>
         </div>
         <div className="mt-8 lg:mt-0 lg:ml-8">
