@@ -37,7 +37,7 @@ export default function Hero() {
             width={950}
             height={600}
             className="grow rounded-md shadow-2xl shadow-black bg-gray-900"
-            src="https://media.discordapp.net/attachments/884101020479782932/1064101743786471424/image.png"
+            src="https://media.discordapp.net/attachments/902866318154403860/1064423030882832414/image.png"
             alt="App screenshot"
           />
           <span className="flex-1"></span>
