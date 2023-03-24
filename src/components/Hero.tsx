@@ -25,7 +25,7 @@ export default function Hero() {
         </a>
         <a
           href="https://github.com/xoniaapp/desktop/releases/latest"
-          className="inline-block bg-black px-4 py-1.5 text-base font-semibold leading-7 text-white shadow-sm ring-1 ring-red-600 hover:bg-red-700 hover:ring-black"
+          className="inline-block bg-black px-4 py-1.5 text-base font-semibold leading-7 text-white shadow-sm ring-1 ring-red-600 hover:bg-red-700 hover:ring-white"
         >
           Download App
         </a>
